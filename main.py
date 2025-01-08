@@ -5,7 +5,7 @@
 Перед вызовом запрашивает нужные исходные данные подпрограммы
 """
 
-from lab5.my_library import task5_1, task5_2, task5_3, task5_4, task5_5, task5_6
+from lab5.my_library import task5_1, task5_2, task5_3, task5_4, task5_5, task5_6, task5_7
 
 
 
